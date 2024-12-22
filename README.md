@@ -1,3 +1,7 @@
+[![Bobbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JurreSerrarens&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JurreSerrarens&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 It a me I do da godot stuff.
 This is my school account *(very cool wow!)*
 
